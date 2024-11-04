@@ -1,4 +1,7 @@
 # Project Portfolio
+* TOC
+{:toc}
+
 ## Data Analytics
 
 ### Project 1: [Analysis of Forecasting Competition Aggregation Method Performance](https://github.com/MisokralPanovic/Forecasting-Competition-Data-Analysis)
