@@ -3,3 +3,5 @@ title: Michal Varga, PhD
 # description: text above image
 show_downloads: = false
 theme: jekyll-theme-minimal
+
+markdown: kramdown
