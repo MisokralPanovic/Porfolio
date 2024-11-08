@@ -18,7 +18,40 @@ The dataset was analysed using the data.table R package, which allows fast and m
 In this project, I performed web scraping on the Wikipedia page for “List of Old-Growth Forests” to collect, clean, and analyze forest data from various regions worldwide. Using Python’s BeautifulSoup library, I extracted data from multiple tables with inconsistent formatting and missing information, employing custom functions to standardize the dataset for analysis. I used techniques for handling data inconsistencies, structuring a custom scraping pipeline, and conducting exploratory data analysis to answer questions about forest distribution by country and region.
 
 **Skills:** Python, BeautifulSoup, web scraping, data cleaning, regex, exploratory data analysis
+<!--
+### Project 4: [Some stuff with Tableau](link to github page)
+Description text of what it is
 
+Picture from analysis
+
+**Skills:** tableau
+
+## Data Science
+
+### Project 1: [OpenCV ML Confocal Image Analysis](link to github page)
+
+Description text of what it is
+
+Picture from analysis
+
+**Skills:**
+
+### Project 2: [Name of project](link to github page)
+
+Description text of what it is
+
+Picture from analysis
+
+**Skills:**
+
+### Project 3: [Name of project](link to github page)
+
+Description text of what it is
+
+Picture from analysis
+
+**Skills:**
+-->
 ## Life Science
 
 ### Project 1: [qPCR Analysis Pipeline](https://github.com/MisokralPanovic/qPCR-Analysis-Template)
@@ -35,7 +68,7 @@ I conducted a differential expression analysis on RNA-seq data to identify genes
 
 ![](https://raw.githubusercontent.com/MisokralPanovic/RNAseq/refs/heads/main/report/RNAseq-Pipeline-Report_files/figure-gfm/top_var_heatmap-1.png) 
 
-#### Project 3: [PhD Thesis](https://github.com/MisokralPanovic/Thesis)
+### Project 3: [PhD Thesis](https://github.com/MisokralPanovic/Thesis)
 
 This repository contains the LaTeX source files and supporting materials for my PhD thesis, which was successfully defended at the University of Cambridge. The project demonstrates my ability to:
 
@@ -45,3 +78,13 @@ This repository contains the LaTeX source files and supporting materials for my 
 - **File and Project Management:** This repository illustrates my ability to manage a large-scale writing project, including version control, organizing LaTeX files, and handling the compilation of a document with multiple components.
 
 **Skills:** LaTex, Git, GitHub, academic writing, file management
+<!--
+## Miscellaneous
+
+### Project 1: [Web Application Development with Django](link to github page)
+Description text of what it is
+
+Picture from analysis
+
+**Skills:** django
+-->
